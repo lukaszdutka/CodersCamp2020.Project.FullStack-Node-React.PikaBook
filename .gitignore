@@ -1,0 +1,5 @@
+node_modules
+dist/
+.cache/
+src/pre-start/env/development.env
+src/pre-start/env/production.env
